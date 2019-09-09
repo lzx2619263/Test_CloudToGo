@@ -121,6 +121,7 @@ public class BasicCell {
 	}
 	
 	
+	
 	//发送TCP请求到连线的组件
 	public List<String> requestToChildTcpCell() {
 		List<String> childCellList = getChildTcpCell();
