@@ -14,7 +14,7 @@ public class BasicCell {
 	//默认http请求端口为8080
 	public static final String HTTPPORT = "8080";
 	//默认http请求端口为6666
-	public static final String TCPPORT = "6666";
+	public static final String TCPPORT = "25817";
 	//获取组件环境变量
 	public Map<String, String> envMap = System.getenv();
 	
